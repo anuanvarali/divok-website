@@ -1,4 +1,4 @@
-﻿const whatsapp = "https://wa.me/917559819011";
+const whatsapp = "https://wa.me/917559819011";
 
 const categories = [
   {
@@ -300,9 +300,9 @@ export default function Home() {
       <section className="bg-[#a47d43] px-6 py-20 text-[#faf8f3]">
         <div className="mx-auto flex max-w-7xl flex-col items-start justify-between gap-8 md:flex-row md:items-center">
           <div>
-            <p className="text-xs font-bold uppercase tracking-[0.3em]">Let's Work Together</p>
+            <p className="text-xs font-bold uppercase tracking-[0.3em]">Let&apos;s Work Together</p>
             <h2 className="mt-5 max-w-2xl text-4xl font-black uppercase leading-tight sm:text-5xl">
-              Let's Find Your Uniform Solution.
+              Let&apos;s Find Your Uniform Solution.
             </h2>
           </div>
           <a href={whatsapp} className="shrink-0 border border-[#faf8f3] px-8 py-5 text-xs font-black uppercase tracking-wider transition hover:bg-[#faf8f3] hover:text-[#28251f]">
